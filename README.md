@@ -1,4 +1,4 @@
-gagngiggles
+gagsngiggles
 
 A mildly chaotic repository of small, niche projects built for curiosity, testing, and the occasional nerdy chuckle.
 This repo is my sandbox with rules: a place to poke at ideas, stress-test my understanding, and build tiny things that are just big enough to be interesting—and small enough to finish before enthusiasm evaporates.
