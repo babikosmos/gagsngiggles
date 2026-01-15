@@ -2,7 +2,7 @@
 
 *Small experiments. Big questions. Zero pretense.*
 
----
+
 
 ## What This Is
 
@@ -16,7 +16,7 @@ This isn't a portfolio. It's a sandbox where I:
 
 No unicorns. No disruption. Just nerdy little tools that scratch specific itches.
 
----
+
 
 ## What Lives Here
 
@@ -30,7 +30,7 @@ You'll find:
 
 These projects are **small by design**. They do one thing, explain how they do it, and stop before feature creep sets in.
 
----
+
 
 ## The Philosophy
 
@@ -42,7 +42,7 @@ I write code like I'm teaching it to someone who's skeptical.
 
 If something feels over-explained, that's the point. I'm not writing for experts—I'm writing for Future Me, who will have forgotten everything.
 
----
+
 
 ## Why This Exists
 
@@ -54,7 +54,7 @@ Three reasons:
 
 This repo is proof that I can turn abstract ideas into working things. Even if those things are small. Even if nobody else needs them.
 
----
+
 
 ## Tech Stack
 
@@ -64,7 +64,7 @@ This repo is proof that I can turn abstract ideas into working things. Even if t
 
 I avoid magic unless I understand the spell.
 
----
+
 
 ## What's Next
 
@@ -77,7 +77,7 @@ Eventually, I might add:
 
 But the core stays the same: **understand first, decorate later.**
 
----
+
 
 ## Status
 
@@ -91,7 +91,7 @@ Some exist purely because a question wouldn't leave me alone.
 
 That's the vibe.
 
----
+
 
 ## A Note on Style
 
@@ -103,7 +103,7 @@ I build things from scratch not because it's better, but because it teaches me h
 
 Once I understand it, *then* I'll use the library.
 
----
+
 
 *"The best way to learn is to build something slightly beyond your current ability and then figure it out as you go."*  
 — Me, probably, after too much coffee
